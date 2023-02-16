@@ -1,4 +1,4 @@
-# Pareto Oracle Bot V1
+# Pareto Order Book Oracle Bot V1
 
 **[Disclaimer: This repository is no longer maintained and is meant for primarily educational purposes.]**
 
